@@ -28,7 +28,7 @@
     "eslint-plugin-flowtype": "^2.46.1",
     "eslint-plugin-import": "^2.9.0",
     "flow-bin": "^0.80.0",
-    "husky": "^1.0.0-rc.1",
+    "husky": "^6.0.0",
     "jest": "^23.1.0",
     "lint-staged": "^7.0.0",
     "map-to-map": "^1.0.0",
